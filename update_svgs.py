@@ -9,7 +9,7 @@ def update_file(filename):
         'Sushmita Dasari': 'Daivik Lakkisetty Naga',
         'AI/ML Undergrad · Full-Stack Eng': 'App Developer & Student Leader',
         'Andhra Pradesh, India': 'Innovation Academy',
-        'B.Tech AI &amp; ML, CGPA 9.10': 'Freshman',
+        'B.Tech AI &amp; ML, CGPA 9.10': 'Sophomore at Innovation Academy',
         'Building • Learning • Shipping': 'Debugging problems • Avoiding homework',
         'VS Code, Git, Docker, Postman': 'VS Code, Git, Xcode',
         'Java, Python, C, C++': 'Python, Swift, JavaScript',
